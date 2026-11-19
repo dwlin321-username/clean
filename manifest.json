@@ -1,0 +1,15 @@
+{
+  "name": "打掃小幫手",
+  "short_name": "打掃小幫手",
+  "description": "把大掃除拆成小任務的打掃習慣小工具",
+  "lang": "zh-Hant",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F2F6FA",
+  "theme_color": "#F2F6FA",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
